@@ -3,7 +3,8 @@
 
 Institut Icària
 Programació - 1r Batxillerat - Curs 2024-25
-Escriure un programa que demani a l'usuari dos nombres enters: dividend i divisor. La sortida per pantalla ha de mostrar la divisió, el quocient i el residu.
+Programa que demana a l'usuari dos nombres enters: dividend i divisor.
+ La sortida per pantalla ha de mostrar la divisió, el quocient i el residu.
 '''
 dividend = int(input("Introdueix el dividend"))
 divisor = int(input("Introdueix el divisor"))
