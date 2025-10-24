@@ -1,10 +1,13 @@
 #!/usr/bin/env python
-'''bones_practiques.py. Escriure un programa que faci una divisió
+'''bones_practiques.py. Escriure un programa que faci 
+una divisió
 
 Institut Icària
 Programació - 1r Batxillerat - Curs 2024-25
-Programa que demana a l'usuari dos nombres enters: dividend i divisor.
- La sortida per pantalla ha de mostrar la divisió, el quocient i el residu.
+Programa que demana a l'usuari dos nombres 
+enters: dividend i divisor.
+La sortida per pantalla ha de mostrar la 
+divisió, el quocient i el residu.
 '''
 __author__ = "Ángel Fabro Francia"
 __email__ = "afabro@instituticaria.cat"
