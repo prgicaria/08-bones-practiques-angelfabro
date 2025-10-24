@@ -6,8 +6,12 @@ Programació - 1r Batxillerat - Curs 2024-25
 Programa que demana a l'usuari dos nombres enters: dividend i divisor.
  La sortida per pantalla ha de mostrar la divisió, el quocient i el residu.
 '''
-dividend = int(input("Introdueix el dividend"))
-divisor = int(input("Introdueix el divisor"))
+_author_= "Ángel Fabro Francia"
+_email_= "afabro@instituticaria.cat"
+_date_= "24/10/2025"
+
+dividend = int(input("Introdueix el dividend: "))
+divisor = int(input("Introdueix el divisor: "))
 quocient = dividend // divisor
 residu = dividend % divisor
 print(f"Divisió: {dividend}/{divisor}")
