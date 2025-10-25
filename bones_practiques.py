@@ -13,8 +13,8 @@ __author__ = "Ángel Fabro Francia"
 __email__ = "afabro@instituticaria.cat"
 __date__ = "24/10/2025"
 
-dividend = int(input("Introdueix el dividend: "))
-divisor = int(input("Introdueix el divisor: "))
+dividend = int(input())
+divisor = int(input())
 quocient = dividend // divisor
 residu = dividend % divisor
 print(f"Divisió: {dividend}/{divisor}")
